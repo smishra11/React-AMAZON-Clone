@@ -1,6 +1,6 @@
 ## Deploy Link 
 
-### App preview
+### `App preview`
 https://drive.google.com/file/d/1sD89qTo1DLLC-evyMh34s08Dv41jG29-/view?usp=sharing
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
