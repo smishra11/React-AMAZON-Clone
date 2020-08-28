@@ -1,9 +1,5 @@
 ## Deplot Link 
 
-x-special/nautilus-clipboard
-copy
-file:///home/subhasish/Pictures/Screenshot%20from%202020-08-29%2000-01-23.png
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
