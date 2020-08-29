@@ -24,20 +24,20 @@ function Home() {
           image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"
         />
         <Product
-          id="2"
-          title="Apple Watch Series 5 (GPS, 44mm) - Space Gray Aluminium Case with Black Sport Band"
-          price={44000}
-          rating={5}
-          image="https://images-na.ssl-images-amazon.com/images/I/71wu%2BHMAKBL._SX679_.jpg"
-        />
-      </div>
-      <div className="home__row">
-        <Product
           id="4"
           title="Mi Smart Band 4-,AMOLED Touch Screen, with Music Control"
           price={2299}
           rating={4}
           image="https://images-na.ssl-images-amazon.com/images/I/71ZSpNjEl0L._SX679_.jpg"
+        />
+      </div>
+      <div className="home__row">
+        <Product
+          id="2"
+          title="Apple Watch Series 5 (GPS, 44mm) - Space Gray"
+          price={44000}
+          rating={5}
+          image="https://images-na.ssl-images-amazon.com/images/I/71wu%2BHMAKBL._SX679_.jpg"
         />
         <Product
           id="3"
