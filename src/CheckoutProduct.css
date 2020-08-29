@@ -1,8 +1,7 @@
 .checkoutProduct {
   display: flex;
-  /* background-color: white;
-  max-width: 1000px;
-  margin-left: 30px; */
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .checkoutProduct__image {
@@ -13,6 +12,7 @@
 
 .checkoutProduct__info {
   padding-left: 20px;
+  margin-top: 20px;
 }
 
 .checkoutProduct__rating {
