@@ -1,3 +1,10 @@
+## Deploy Link 
+
+### `App preview`
+
+![Screenshot from 2020-08-29 00-01-23](https://user-images.githubusercontent.com/53392598/91605334-ea5f5c00-e98d-11ea-9a07-fee1c200dcdb.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
