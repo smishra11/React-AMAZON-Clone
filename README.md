@@ -3,7 +3,11 @@ https://clone-a444b.web.app
 
 ### `App preview`
 
+HOME PAGE -
 ![Screenshot from 2020-08-29 00-01-23](https://user-images.githubusercontent.com/53392598/91605334-ea5f5c00-e98d-11ea-9a07-fee1c200dcdb.png)
+
+LOGIN PAGE - 
+![Screenshot from 2020-09-01 01-15-01](https://user-images.githubusercontent.com/53392598/91760274-ad46d400-ebf0-11ea-9947-390271da9adb.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
