@@ -1,5 +1,6 @@
 ## Deploy Link 
  FIREBASE-https://clone-a444b.web.app
+ 
  NETLIFY-https://clone-amazon-app.netlify.app
 
 ### `App preview`
